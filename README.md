@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Rodrigo 👋
 
-Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas... [Seu texto aqui]
+Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas...
 
 ## Contato
 <a href="mailto: nada.gmail "><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
